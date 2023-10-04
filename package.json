@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Y0less.github.io/project-9FastDev",
+  "homepage": "https://ValentynaJasochka.github.io/Books-shop",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-9FastDev/"
+    "build": "parcel build src/*.html --public-url /Books-shop/"
   },
   "repository": {
     "type": "git",
